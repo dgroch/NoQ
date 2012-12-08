@@ -1,0 +1,37 @@
+h1	
+{font-family: Offside;
+font-size: 24px;
+color: white;
+}
+
+.page
+{
+background-image: url('carbon.png');
+background-repeat: repeat;
+}
+
+.whiteText
+{
+color: white;
+}
+
+.blackText
+{
+color: black;
+}
+
+.nav-glyphish .ui-btn .ui-btn-inner { padding-top: 40px !important; }
+
+.nav-glyphish .ui-btn .ui-icon { width: 30px!important; height: 30px!important; margin-left: -15px !important; box-shadow: none!important; -moz-box-shadow: none!important; -webkit-box-shadow: none!important; -webkit-border-radius: 0 !important; border-radius: 0 !important; }
+
+#food .ui-icon { background:  url(img/48-fork-and-knife.png) 50% 50% no-repeat; background-size: 18px 26px; }
+
+#drink .ui-icon { background:  url(img/87-wine-glass.png) 50% 50% no-repeat; background-size: 14px 24px;  }
+
+#doctor .ui-icon { background:  url(img/79-medical-bag.png) 50% 50% no-repeat;  background-size: 24px 20px; }
+
+#mechanic .ui-icon { background:  url(img/158-wrench-2.png) 50% 50% no-repeat;  background-size: 22px 22px; }
+
+#coffee .ui-icon { background:  url(img/34-coffee.png) 50% 50% no-repeat;  background-size: 24px 26px; }
+
+#configure { background: url(img/19-gear.png) 50% 50% no-repeat; background-size: 20px 20px;}
